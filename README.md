@@ -1,0 +1,2 @@
+# Smart-Building-Environment-Monitoring-and-Control-System-using-Machine-Learning-
+An ML-powered smart building system using ESP32 and TensorFlow Lite. Integrates DHT11, MQ135, PIR, and TSL2561 sensors for real-time monitoring of temperature, air quality, motion, and light. Executes autonomous control of fans, LEDs, and lighting via an embedded neural network for optimized energy efficiency and occupant comfort.
